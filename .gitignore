@@ -1,0 +1,7 @@
+# Eclipse IDE files
+.project
+.settings/
+.classpath
+
+# Build output folder
+target/
